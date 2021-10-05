@@ -19,7 +19,7 @@ public class Player{
     private String name; //name of player
     private int numHits; //number of hits by player
     private int numErrors; //number of errors by player
-
+// hi team, im not okay team :(
     /**
      * Player constructor
      * @param name
